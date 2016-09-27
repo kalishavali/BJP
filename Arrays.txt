@@ -1,0 +1,10 @@
+-------------------   Scanner  --------------------
+StringTokenizer
+
+
+-------------------   Arrays   ------------------
+http://introcs.cs.princeton.edu/java/14array/
+http://www.javawithus.com/tutorial/using-ellipsis-to-accept-variable-number-of-arguments
+https://dzone.com/articles/top-10-methods-java-arrays
+http://javadevnotes.com/java-array-to-list-examples
+http://math.hws.edu/javanotes/c7/s2.html
